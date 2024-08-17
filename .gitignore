@@ -1,0 +1,7 @@
+config.json
+model.safetensors
+pwd
+special_tokens_map.json
+tokenizer_config.json
+venv
+vocab.txt
